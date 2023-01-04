@@ -12,9 +12,9 @@ Updated version is in Development.
 
 User is able to register, make fictive banking transactions between other accounts, ask bank for loan or close account.
 
-Hardcoded accounts usernames and passwords are:
-  *username: js password: 1111
-  *username: jd password: 2222
-  *username: stw password: 3333
-  *username: ss password: 4444
+Available hardcoded accounts are:
+  * username: js  password: 1111
+  * username: jd  password: 2222
+  * username: stw password: 3333
+  * username: ss  password: 4444
  
